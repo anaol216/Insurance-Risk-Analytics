@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+plotly
+statsmodels
+scipy
+# Optional: Uncomment the following line if you need to install a specific version of scikit-learn
